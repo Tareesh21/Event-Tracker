@@ -1,0 +1,1 @@
+Event Tracker is a web-based platform designed to simplify college event management. It allows organizers to schedule events, handle registrations, monitor participant attendance, and automate certificate generation using Django.
